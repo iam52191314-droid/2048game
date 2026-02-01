@@ -1,0 +1,5 @@
+{
+  "name": "Infinite 2048",
+  "description": "An enhanced version of the classic 2048 puzzle game. Features infinite gameplay beyond 2048, smooth animations, undo capability, and special power-ups like Swap and Clear Number.",
+  "requestFramePermissions": []
+}
